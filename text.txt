@@ -1,0 +1,5 @@
+za pomoca mechanizmu ciasteczek stworzyc licznik odwiedzin
+
+$licznik, $locznik++
+
+jaka tworzyla ciasteczka? jak cos zapisac do ciasteczla isset do $_cookie i trzeba to uwzglednic
